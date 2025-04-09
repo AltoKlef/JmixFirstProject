@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "F:/Dev/java/jmix/ProjectManager/.jmix/screen-designer/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "F:/Dev/java/jmix/ProjectManager/.jmix/screen-designer/./frontend/generated/jar-resources",
+  "staticOutput": "F:/Dev/java/jmix/ProjectManager/.jmix/screen-designer/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "F:\\Dev\\java\\jmix\\ProjectManager\\.jmix\\screen-designer\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "F:\\Dev\\java\\jmix\\ProjectManager\\.jmix\\screen-designer\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "F:/Dev/java/jmix/ProjectManager/.jmix/screen-designer/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "F:/Dev/java/jmix/ProjectManager/.jmix/screen-designer/target/dev-bundle/config",
+  "jarResourcesFolder": "F:/Dev/java/jmix/ProjectManager/.jmix/screen-designer/./frontend/generated/jar-resources",
+  "themeName": "preview-theme",
+  "clientServiceWorkerSource": "F:\\Dev\\java\\jmix\\ProjectManager\\.jmix\\screen-designer\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
