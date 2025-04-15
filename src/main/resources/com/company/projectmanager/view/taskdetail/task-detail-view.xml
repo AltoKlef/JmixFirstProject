@@ -36,6 +36,8 @@
                     <action id="lookupAction_1" type="entity_lookup"/>
                 </actions>
             </entityPicker>
+            <fileStorageUploadField id="attachmentField" property="attachment" clearButtonVisible="true"
+                                    fileNameVisible="true" uploadIcon="UPLOAD" maxFileSize="10000000"/>
         </formLayout>
         <hbox>
             <button id="closeActionButton" action="closeAction"/>
